@@ -1,8 +1,8 @@
-Olá, sou Daiana Oliveira
+## Olá! Eu sou a Daiana!
 
-- 🌱 Estudando Java 
+- 🌱 Atualmente focada na linguagem JAVA
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
-- 📫 contacte-me no email: daiana.davi2411@gmail.com
+- 📫 Contacte-me no email: daiana.davi2411@gmail.com
 - 😄 Pronouns: ela/dela
 
 <div align="center">
