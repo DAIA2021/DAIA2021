@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Daiana!
 
-- 🌱 Atualmente focada na linguagem JAVA
+- 🌱 Atualmente estudando na Rocketseat programa Explorer Turma 09,formação em Back-End e Front-End
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
 - 📫 Contacte-me no email: daiana.davi2411@gmail.com
 - 😄 Pronouns: ela/dela
